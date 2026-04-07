@@ -1,0 +1,13 @@
+# --- Core Frameworks ---
+Flask==3.0.3
+Flask-Cors==4.0.1
+
+# --- Computer Vision & AI ---
+opencv-python==4.9.0.80
+tensorflow==2.15.0
+mtcnn==0.1.1
+
+# --- Utilities ---
+numpy==1.26.4
+Pillow==10.3.0
+python-dotenv==1.0.1
