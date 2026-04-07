@@ -1,4 +1,4 @@
-# 🛡️ HexSoftwares — Face Detection using OpenCV (Python)
+# 🛡️ HexSoftwares — Face Detection using OpenCV (Python).
 
 ![Internship](https://img.shields.io/badge/HexSoftwares-Internship-blue?style=flat-square) ![Domain](https://img.shields.io/badge/Domain-Artificial%20Intelligence-purple?style=flat-square) ![Task](https://img.shields.io/badge/Task-2%20%7C%20Project%202-orange?style=flat-square)
 
